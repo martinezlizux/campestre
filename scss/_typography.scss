@@ -1,0 +1,27 @@
+// <weight>: Use a value from 300 to 700
+// <uniquifier>: Use a unique and descriptive class name
+
+.quicksand-txt {
+    font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+    // font-weight: <weight>;
+    font-style: normal;
+}
+
+
+
+
+body{
+    font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.title{
+    font-family: "Kanit", sans-serif;
+    text-align: center;
+    font-size: 3rem;
+    padding: 50px 0px;
+    color: #ae7e1c;
+}
